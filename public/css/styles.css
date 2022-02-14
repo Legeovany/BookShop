@@ -1,0 +1,88 @@
+body {
+    background-color: #ccdbdc;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: left;
+}
+
+.form,
+.books-container {
+    width: 450px;
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: .5em;
+}
+
+.form-control label {
+    font-weight: bold;
+    margin-bottom: .3em;
+}
+
+.form-control input {
+    padding: 5px;
+}
+
+/*Books*/
+
+.books-container div {
+    border-bottom: 2px solid #eeeeee;
+    padding: 8px;
+    margin: 8px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a {
+    margin-bottom: .7em;
+    border-bottom: 3px
+}
+
+#navbar {
+    background-color: #7d8571;
+    border-bottom: 1px solid rgb(110, 108, 108);
+    padding: 0.1em;
+    margin-bottom: 1em;
+}
+
+#navbar ul {
+    display: flex;
+    list-style: none;
+    margin-left: -4.5em;
+}
+
+#navbar li {
+    margin-left: 2.5em;
+    color: #eeeeee;
+}
+
+#book-page {
+    padding: 2em;
+}
+
+#book-page container {
+    text-align: left;
+}
+
+.actions {
+    margin-top: 2em;
+    display: flex;
+    justify-content: left;
+}
+
+.actions a {
+    margin-right: 1em;
+}
+
+.input {
+    margin-top: 1em;
+}
