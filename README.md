@@ -5,9 +5,9 @@ the book from the database.
 
 Tools
 
-NodeJs
-ExpressJs
-MySQL
+NodeJs,
+ExpressJs,
+MySQL,
 Handlebars
 
 
