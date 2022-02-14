@@ -16,7 +16,7 @@ Executing program
     1 - Clone the project into your desktop
     2 - Open the project on VSCode
     3 - Download the dependencies
-    4 - Download xaamp and MySQL
+    4 - Download xampp and MySQL
     5 - Create a local database with the right columns and type of values
     6 - Initialize the MySQL server
     7 - Run the "npm start" command to start the application
