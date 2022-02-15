@@ -1,5 +1,5 @@
 body {
-    background-color: #ccdbdc;
+    background-color: #c5c3c6;
 }
 
 * {
@@ -33,9 +33,11 @@ h1 {
 /*Books*/
 
 .books-container div {
-    border-bottom: 2px solid #eeeeee;
-    padding: 8px;
-    margin: 8px;
+    border: 0.5px solid #eff0ed;
+    padding: 20px;
+    flex: 1 1 29%;
+    height: 75px;
+    
 }
 
 .bold {
@@ -48,7 +50,7 @@ a {
 }
 
 #navbar {
-    background-color: #7d8571;
+    background-color: #4c5c68;
     border-bottom: 1px solid rgb(110, 108, 108);
     padding: 0.1em;
     margin-bottom: 1em;
